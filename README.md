@@ -1,1 +1,1 @@
-# Piscine42
+Trainning for 42 piscine
